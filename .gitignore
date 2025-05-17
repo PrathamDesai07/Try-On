@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#token
+huggingface_token.txt
+
 # Distribution / packaging
 .Python
 build/
